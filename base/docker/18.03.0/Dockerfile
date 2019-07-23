@@ -1,3 +1,3 @@
-FROM docker:18.03.0-dind
+FROM docker:19.03-dind
 
 LABEL maintainer="phithon <root@leavesongs.com>"
